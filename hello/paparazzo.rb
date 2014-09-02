@@ -1,0 +1,1 @@
+puts "Paparazzo, reporting for duty"
